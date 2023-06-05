@@ -1,0 +1,630 @@
+[2023-04-27 08:45:51.803 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-27 08:45:52.302 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-27 08:45:52.305 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-27 08:45:52.317 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-27 08:45:52.320 +07:00  INF]  Hosting environment: Development
+[2023-04-27 08:45:52.322 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-27 08:45:53.681 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:45:58.023 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 08:45:58.197 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:45:58.238 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4553.8530ms
+[2023-04-27 08:45:59.142 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:45:59.229 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 87.2746ms
+[2023-04-27 08:46:02.128 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:46:06.231 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:46:06.231 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4103.2776ms
+[2023-04-27 08:46:06.669 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:46:06.670 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.4121ms
+[2023-04-27 08:46:09.669 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:46:13.721 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:46:13.722 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4052.9833ms
+[2023-04-27 08:46:14.320 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:46:14.322 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.7008ms
+[2023-04-27 08:46:17.324 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:46:21.404 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:46:21.405 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4080.8349ms
+[2023-04-27 08:46:22.366 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:46:22.367 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.8772ms
+[2023-04-27 08:46:25.354 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:46:29.442 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:46:29.443 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4088.5458ms
+[2023-04-27 08:46:29.930 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:46:29.931 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4690ms
+[2023-04-27 08:46:32.993 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:46:37.101 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:46:37.101 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4116.1637ms
+[2023-04-27 08:46:37.629 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:46:37.629 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5500ms
+[2023-04-27 08:46:40.633 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:46:44.740 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:46:44.740 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4107.3917ms
+[2023-04-27 08:46:45.308 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:46:45.309 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4740ms
+[2023-04-27 08:46:48.307 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:46:52.396 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:46:52.396 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4089.5554ms
+[2023-04-27 08:46:52.973 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:46:52.973 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4886ms
+[2023-04-27 08:46:55.999 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:47:00.070 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:47:00.071 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4071.8123ms
+[2023-04-27 08:47:00.836 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:47:00.841 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 2.7767ms
+[2023-04-27 08:47:03.834 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:47:07.935 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:47:07.935 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4101.6611ms
+[2023-04-27 08:47:08.635 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:47:08.636 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5365ms
+[2023-04-27 08:47:11.638 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:47:15.731 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:47:15.731 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4093.4390ms
+[2023-04-27 08:47:16.256 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:47:16.257 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5311ms
+[2023-04-27 08:47:18.957 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - -
+[2023-04-27 08:47:18.990 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-27 08:47:19.039 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-27 08:47:19.267 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:47:20.190 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 1142.002ms
+[2023-04-27 08:47:20.194 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-27 08:47:20.314 +07:00  ERR]  Could not create an instance of type 'ApplicationCore.Filer.PaginationFilter'. Model bound complex types must not be abstract or value types and must have a parameterless constructor. Record types must have a single primary constructor. Alternatively, give the 'filter' parameter a non-null default value.
+[2023-04-27 08:47:20.512 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - - - 500 - application/json 1555.4846ms
+[2023-04-27 08:47:23.368 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:47:23.369 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4101.7089ms
+[2023-04-27 08:47:23.915 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:47:23.916 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5836ms
+[2023-04-27 08:47:26.928 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:47:36.936 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:47:36.936 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10007.9585ms
+[2023-04-27 08:47:37.562 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:47:37.562 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4271ms
+[2023-04-27 08:47:40.562 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:47:50.589 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:47:50.589 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10026.8499ms
+[2023-04-27 08:47:51.104 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:47:51.104 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.7832ms
+[2023-04-27 08:47:54.100 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:48:04.115 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:48:04.116 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10015.6325ms
+[2023-04-27 08:48:04.665 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:48:04.666 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5810ms
+[2023-04-27 08:48:07.667 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:48:08.958 +07:00  ERR]  Unable to connect to the SPA development server at 'https://localhost:44467'.
+[2023-04-27 08:48:17.685 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 08:48:17.740 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:48:17.740 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10073.7484ms
+[2023-04-27 08:48:22.370 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:48:22.371 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5332ms
+[2023-04-27 08:48:25.386 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:48:35.393 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:48:35.394 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10007.7797ms
+[2023-04-27 08:48:35.902 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:48:35.902 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.3784ms
+[2023-04-27 08:48:38.909 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:48:49.231 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:48:49.232 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10322.9986ms
+[2023-04-27 08:48:51.854 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:48:51.855 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6299ms
+[2023-04-27 08:48:54.849 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:49:04.860 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:49:04.860 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10011.4264ms
+[2023-04-27 08:49:05.691 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:49:05.692 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.8759ms
+[2023-04-27 08:49:08.696 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:49:18.723 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:49:18.723 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10027.5719ms
+[2023-04-27 08:49:20.965 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:49:20.966 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5979ms
+[2023-04-27 08:49:23.957 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:49:32.090 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-27 08:49:32.091 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 8134.6348ms
+[2023-04-27 08:49:32.092 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-27 08:53:40.885 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-27 08:53:41.456 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-27 08:53:41.460 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-27 08:53:41.476 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-27 08:53:41.482 +07:00  INF]  Hosting environment: Development
+[2023-04-27 08:53:41.485 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-27 08:53:42.382 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:53:45.233 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - -
+[2023-04-27 08:53:45.332 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-27 08:53:45.381 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-27 08:53:45.659 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 265.4421ms
+[2023-04-27 08:53:45.663 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-27 08:53:45.776 +07:00  ERR]  Could not create an instance of type 'ApplicationCore.Filer.PaginationFilter'. Model bound complex types must not be abstract or value types and must have a parameterless constructor. Record types must have a single primary constructor. Alternatively, give the 'filter' parameter a non-null default value.
+[2023-04-27 08:53:45.942 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - - - 500 - application/json 708.4525ms
+[2023-04-27 08:53:46.628 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 08:53:46.801 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:53:46.812 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4440.0321ms
+[2023-04-27 08:53:48.381 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:53:48.383 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 2.7074ms
+[2023-04-27 08:53:51.336 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:54:01.366 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:54:01.366 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10030.2229ms
+[2023-04-27 08:54:02.434 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:54:02.437 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 2.8761ms
+[2023-04-27 08:54:05.436 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:54:13.687 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-27 08:54:13.687 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 8251.1437ms
+[2023-04-27 08:54:15.967 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-27 08:56:10.614 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-27 08:56:11.127 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-27 08:56:11.130 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-27 08:56:11.149 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-27 08:56:11.154 +07:00  INF]  Hosting environment: Development
+[2023-04-27 08:56:11.157 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-27 08:56:12.152 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:56:16.487 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 08:56:16.646 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:56:16.663 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4522.1226ms
+[2023-04-27 08:56:17.668 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:56:17.755 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 86.3269ms
+[2023-04-27 08:56:20.638 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:56:30.652 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 08:56:30.652 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10013.6464ms
+[2023-04-27 08:56:31.262 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 08:56:31.263 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.0117ms
+[2023-04-27 08:56:34.270 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 08:56:37.270 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-27 08:56:37.353 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-27 08:56:37.353 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 3082.8028ms
+[2023-04-27 08:58:54.578 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - -
+[2023-04-27 08:58:54.612 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-27 08:58:54.653 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-27 08:58:54.903 +07:00  INF]  Get Post By Type support Pagination executing...
+[2023-04-27 08:58:58.500 +07:00  INF]  Executed DbCommand (240ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-27 08:58:58.712 +07:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-27 08:58:58.737 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.PagedResponse`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-27 08:58:58.966 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 4305.7622ms
+[2023-04-27 08:58:58.968 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-27 08:58:58.984 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - - - 200 - application/json;+charset=utf-8 4406.4073ms
+[2023-04-27 10:30:44.135 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-27 10:30:44.686 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-27 10:30:44.689 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-27 10:30:44.705 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-27 10:30:44.709 +07:00  INF]  Hosting environment: Development
+[2023-04-27 10:30:44.713 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-27 10:30:47.634 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:30:52.066 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 10:30:52.355 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:30:52.383 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4764.8404ms
+[2023-04-27 10:30:53.077 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:30:53.277 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 199.6890ms
+[2023-04-27 10:30:55.916 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:00.113 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:00.115 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4199.7107ms
+[2023-04-27 10:31:00.637 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:00.646 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 11.0909ms
+[2023-04-27 10:31:03.633 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:07.714 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:07.714 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4081.6876ms
+[2023-04-27 10:31:07.849 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:07.851 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 2.1711ms
+[2023-04-27 10:31:10.818 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:14.906 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:14.906 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4088.6331ms
+[2023-04-27 10:31:15.044 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:15.044 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4565ms
+[2023-04-27 10:31:18.020 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:22.096 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:22.096 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4076.2018ms
+[2023-04-27 10:31:22.172 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:22.173 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.8514ms
+[2023-04-27 10:31:25.176 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:29.280 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:29.281 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4104.9724ms
+[2023-04-27 10:31:29.396 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:29.397 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5262ms
+[2023-04-27 10:31:32.415 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:36.517 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:36.517 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4102.2417ms
+[2023-04-27 10:31:36.617 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:36.618 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5659ms
+[2023-04-27 10:31:39.608 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:43.686 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:43.686 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4077.5820ms
+[2023-04-27 10:31:43.773 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:43.778 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 4.8262ms
+[2023-04-27 10:31:46.752 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:50.857 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:50.858 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4105.6356ms
+[2023-04-27 10:31:50.970 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:50.971 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5586ms
+[2023-04-27 10:31:53.948 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:31:58.041 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:31:58.042 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4093.7386ms
+[2023-04-27 10:31:58.365 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:31:58.366 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.8473ms
+[2023-04-27 10:32:01.385 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:32:11.397 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:32:11.398 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10012.2675ms
+[2023-04-27 10:32:11.519 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:32:11.521 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.5752ms
+[2023-04-27 10:32:14.490 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:32:24.508 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:32:24.508 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10018.1432ms
+[2023-04-27 10:32:24.576 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:32:24.577 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6252ms
+[2023-04-27 10:32:27.598 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:32:37.643 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:32:37.643 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10044.7621ms
+[2023-04-27 10:32:37.737 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:32:37.743 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 6.9575ms
+[2023-04-27 10:32:40.737 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:32:50.747 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:32:50.747 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10010.1155ms
+[2023-04-27 10:32:50.934 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:32:50.935 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4643ms
+[2023-04-27 10:32:53.953 +07:00  ERR]  Unable to connect to the SPA development server at 'https://localhost:44467'.
+[2023-04-27 10:32:53.955 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:33:03.978 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 10:33:04.069 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:33:04.070 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10115.3296ms
+[2023-04-27 10:33:04.484 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:33:04.497 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 5.5303ms
+[2023-04-27 10:33:07.487 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:33:17.500 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:33:17.501 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10014.1923ms
+[2023-04-27 10:33:17.587 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:33:17.587 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.8333ms
+[2023-04-27 10:33:20.584 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:33:30.601 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:33:30.602 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10017.5750ms
+[2023-04-27 10:33:30.620 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-27 10:33:31.069 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:33:31.070 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.9213ms
+[2023-04-27 10:33:34.005 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:33:36.070 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-27 10:33:36.071 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 2066.0617ms
+[2023-04-27 10:35:20.315 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/contact application/json 10
+[2023-04-27 10:35:20.351 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.GetAll (TitanWeb)'
+[2023-04-27 10:35:20.383 +07:00  INF]  Route matched with {action = "GetAll", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 10:35:21.247 +07:00  INF]  Getting All contract Table..
+[2023-04-27 10:35:23.397 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.GetAll (TitanWeb) in 3006.1871ms
+[2023-04-27 10:35:23.400 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.GetAll (TitanWeb)'
+[2023-04-27 10:35:23.453 +07:00  ERR]  The source IQueryable doesn't implement IDbAsyncEnumerable<ApplicationCore.Entities.Contact>. Only sources that implement IDbAsyncEnumerable can be used for Entity Framework asynchronous operations. For more details see http://go.microsoft.com/fwlink/?LinkId=287068.
+[2023-04-27 10:35:23.681 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/contact application/json 10 - 500 - application/json 3366.3611ms
+[2023-04-27 10:38:13.812 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-27 10:38:14.511 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-27 10:38:14.516 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-27 10:38:14.534 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-27 10:38:14.538 +07:00  INF]  Hosting environment: Development
+[2023-04-27 10:38:14.543 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-27 10:38:15.779 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:38:17.525 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/contact application/json 10
+[2023-04-27 10:38:17.703 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.GetAll (TitanWeb)'
+[2023-04-27 10:38:17.756 +07:00  INF]  Route matched with {action = "GetAll", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 10:38:18.111 +07:00  INF]  Getting All contract Table..
+[2023-04-27 10:38:20.197 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.GetAll (TitanWeb) in 2433.4486ms
+[2023-04-27 10:38:20.201 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.GetAll (TitanWeb)'
+[2023-04-27 10:38:20.282 +07:00  ERR]  The source IQueryable doesn't implement IDbAsyncEnumerable<ApplicationCore.Entities.Contact>. Only sources that implement IDbAsyncEnumerable can be used for Entity Framework asynchronous operations. For more details see http://go.microsoft.com/fwlink/?LinkId=287068.
+[2023-04-27 10:38:20.311 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 10:38:20.590 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:38:20.622 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4853.5777ms
+[2023-04-27 10:38:20.729 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/contact application/json 10 - 500 - application/json 3203.7124ms
+[2023-04-27 10:38:21.893 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:38:21.897 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 3.8235ms
+[2023-04-27 10:38:24.753 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:38:25.100 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/contact application/json 10
+[2023-04-27 10:38:25.105 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.GetAll (TitanWeb)'
+[2023-04-27 10:38:25.106 +07:00  INF]  Route matched with {action = "GetAll", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 10:38:25.129 +07:00  INF]  Getting All contract Table..
+[2023-04-27 10:38:25.536 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.GetAll (TitanWeb) in 430.1219ms
+[2023-04-27 10:38:25.537 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.GetAll (TitanWeb)'
+[2023-04-27 10:38:25.615 +07:00  ERR]  The source IQueryable doesn't implement IDbAsyncEnumerable<ApplicationCore.Entities.Contact>. Only sources that implement IDbAsyncEnumerable can be used for Entity Framework asynchronous operations. For more details see http://go.microsoft.com/fwlink/?LinkId=287068.
+[2023-04-27 10:38:25.616 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/contact application/json 10 - 500 - application/json 515.2187ms
+[2023-04-27 10:38:28.858 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:38:28.858 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4107.0854ms
+[2023-04-27 10:38:28.966 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:38:28.967 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.0232ms
+[2023-04-27 10:38:31.992 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:38:42.029 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:38:42.030 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10037.8458ms
+[2023-04-27 10:38:42.134 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:38:42.134 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.3864ms
+[2023-04-27 10:38:45.096 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:38:55.116 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 10:38:55.116 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10019.9109ms
+[2023-04-27 10:38:55.575 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 10:38:55.576 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.7239ms
+[2023-04-27 10:38:58.437 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 10:39:00.706 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-27 10:39:00.901 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-27 10:39:00.902 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 2464.2195ms
+[2023-04-27 10:40:01.277 +07:00  INF]  Request starting HTTP/1.1 POST https://localhost:7251/api/contact application/json 840
+[2023-04-27 10:40:01.277 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 10:40:01.297 +07:00  INF]  Route matched with {action = "CreateContact", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateContact(ApplicationCore.Entities.Contact) on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 10:40:01.718 +07:00  INF]  Creating a new Contact executing..
+[2023-04-27 10:40:04.610 +07:00  INF]  Executed DbCommand (760ms) [Parameters=[@p0='?' (Size = 500), @p1='?' (Size = 100), @p2='?' (Size = 100), @p3='?' (Size = 20) (DbType = AnsiString), @p4='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Contact] ([Description], [Email], [Name], [Phone], [Subject])
+OUTPUT INSERTED.[Id], INSERTED.[CreatedTime]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+[2023-04-27 10:40:04.895 +07:00  ERR]  An exception occurred in the database while saving changes for context type 'ApplicationCore.Entities.TtwebContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'TTWebv2.dbo.Contact', column 'Subject'. Truncated value: 'dsfdasdasdadasdasdweeeeeeeeeeesdasdadasdasdasdasdsadsadasdsadsadasdasdasdsadasdsadsadsadsadwwwwwwwww'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:33ddc42c-4142-4610-8f3f-f9108d85be82
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'TTWebv2.dbo.Contact', column 'Subject'. Truncated value: 'dsfdasdasdadasdasdweeeeeeeeeeesdasdadasdasdasdasdsadsadasdsadsadasdasdasdsadasdsadsadsadsadwwwwwwwww'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:33ddc42c-4142-4610-8f3f-f9108d85be82
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+[2023-04-27 10:40:05.191 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.CreateContact (TitanWeb) in 3893.6032ms
+[2023-04-27 10:40:05.194 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 10:40:05.346 +07:00  ERR]  An error occurred while saving the entity changes. See the inner exception for details.
+[2023-04-27 10:40:05.366 +07:00  INF]  Request finished HTTP/1.1 POST https://localhost:7251/api/contact application/json 840 - 500 - application/json 4089.2701ms
+[2023-04-27 10:40:18.700 +07:00  INF]  Request starting HTTP/1.1 POST https://localhost:7251/api/contact application/json 148
+[2023-04-27 10:40:18.701 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 10:40:18.701 +07:00  INF]  Route matched with {action = "CreateContact", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateContact(ApplicationCore.Entities.Contact) on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 10:40:18.716 +07:00  INF]  Creating a new Contact executing..
+[2023-04-27 10:40:18.736 +07:00  INF]  Executed DbCommand (10ms) [Parameters=[@p0='?' (Size = 500), @p1='?' (Size = 100), @p2='?' (Size = 100), @p3='?' (Size = 20) (DbType = AnsiString), @p4='?' (Size = 150)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Contact] ([Description], [Email], [Name], [Phone], [Subject])
+OUTPUT INSERTED.[Id], INSERTED.[CreatedTime]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+[2023-04-27 10:40:18.814 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[ApplicationCore.Entities.Contact, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+[2023-04-27 10:40:18.835 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.CreateContact (TitanWeb) in 133.9707ms
+[2023-04-27 10:40:18.835 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 10:40:18.835 +07:00  INF]  Request finished HTTP/1.1 POST https://localhost:7251/api/contact application/json 148 - 200 - application/json;+charset=utf-8 134.7661ms
+[2023-04-27 10:40:52.052 +07:00  INF]  Request starting HTTP/1.1 POST https://localhost:7251/api/contact application/json 453
+[2023-04-27 10:40:52.052 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 10:40:52.052 +07:00  INF]  Route matched with {action = "CreateContact", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateContact(ApplicationCore.Entities.Contact) on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 10:40:52.056 +07:00  INF]  Creating a new Contact executing..
+[2023-04-27 10:40:52.062 +07:00  INF]  Executed DbCommand (3ms) [Parameters=[@p0='?' (Size = 500), @p1='?' (Size = 100), @p2='?' (Size = 100), @p3='?' (Size = 20) (DbType = AnsiString), @p4='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Contact] ([Description], [Email], [Name], [Phone], [Subject])
+OUTPUT INSERTED.[Id], INSERTED.[CreatedTime]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+[2023-04-27 10:40:52.097 +07:00  ERR]  An exception occurred in the database while saving changes for context type 'ApplicationCore.Entities.TtwebContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'TTWebv2.dbo.Contact', column 'Subject'. Truncated value: 'dsfdasdasdadasdasdweeeeeeeeeeesdasdadasdasdasdasdsadsadasdsadsadasdasdasdsadasdsadsadsadsadwwwwwwwww'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:33ddc42c-4142-4610-8f3f-f9108d85be82
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'TTWebv2.dbo.Contact', column 'Subject'. Truncated value: 'dsfdasdasdadasdasdweeeeeeeeeeesdasdadasdasdasdasdsadsadasdsadsadasdasdasdsadasdsadsadsadsadwwwwwwwww'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:33ddc42c-4142-4610-8f3f-f9108d85be82
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+[2023-04-27 10:40:52.344 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.CreateContact (TitanWeb) in 292.0222ms
+[2023-04-27 10:40:52.345 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 10:40:52.484 +07:00  ERR]  An error occurred while saving the entity changes. See the inner exception for details.
+[2023-04-27 10:40:52.484 +07:00  INF]  Request finished HTTP/1.1 POST https://localhost:7251/api/contact application/json 453 - 500 - application/json 431.8705ms
+[2023-04-27 10:40:57.940 +07:00  INF]  Request starting HTTP/1.1 POST https://localhost:7251/api/contact application/json 249
+[2023-04-27 10:40:57.940 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 10:40:57.940 +07:00  INF]  Route matched with {action = "CreateContact", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateContact(ApplicationCore.Entities.Contact) on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 10:40:57.944 +07:00  INF]  Creating a new Contact executing..
+[2023-04-27 10:40:57.948 +07:00  INF]  Executed DbCommand (2ms) [Parameters=[@p0='?' (Size = 500), @p1='?' (Size = 100), @p2='?' (Size = 100), @p3='?' (Size = 20) (DbType = AnsiString), @p4='?' (Size = 150)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Contact] ([Description], [Email], [Name], [Phone], [Subject])
+OUTPUT INSERTED.[Id], INSERTED.[CreatedTime]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+[2023-04-27 10:40:57.950 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[ApplicationCore.Entities.Contact, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+[2023-04-27 10:40:57.950 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.CreateContact (TitanWeb) in 9.5339ms
+[2023-04-27 10:40:57.950 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 10:40:57.950 +07:00  INF]  Request finished HTTP/1.1 POST https://localhost:7251/api/contact application/json 249 - 200 - application/json;+charset=utf-8 10.2566ms
+[2023-04-27 11:04:48.861 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-27 11:04:49.221 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-27 11:04:49.223 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-27 11:04:49.232 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-27 11:04:49.235 +07:00  INF]  Hosting environment: Development
+[2023-04-27 11:04:49.238 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-27 11:04:50.141 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:04:54.412 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 11:04:54.591 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 11:04:54.617 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4476.5785ms
+[2023-04-27 11:04:54.802 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 11:04:54.930 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 127.4507ms
+[2023-04-27 11:04:57.805 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:05:01.924 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 11:05:01.924 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4120.0226ms
+[2023-04-27 11:05:03.065 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 11:05:03.066 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.7451ms
+[2023-04-27 11:05:05.049 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:05:05.365 +07:00  INF]  Request starting HTTP/1.1 POST https://localhost:7251/api/contact application/json 840
+[2023-04-27 11:05:05.389 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 11:05:05.561 +07:00  INF]  Route matched with {action = "CreateContact", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateContact(ApplicationCore.Entities.Contact) on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 11:05:06.499 +07:00  INF]  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+[2023-04-27 11:05:06.686 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.CreateContact (TitanWeb) in 1115.3368ms
+[2023-04-27 11:05:06.698 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 11:05:06.708 +07:00  INF]  Request finished HTTP/1.1 POST https://localhost:7251/api/contact application/json 840 - 400 - application/problem+json;+charset=utf-8 1343.1124ms
+[2023-04-27 11:05:15.075 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 11:05:15.075 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10026.4878ms
+[2023-04-27 11:05:15.256 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 11:05:15.257 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.8056ms
+[2023-04-27 11:05:18.266 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:05:28.284 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 11:05:28.284 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10019.1213ms
+[2023-04-27 11:05:28.380 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 11:05:28.380 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.5923ms
+[2023-04-27 11:05:28.802 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-27 11:05:31.383 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:05:33.456 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-27 11:05:33.457 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 2074.2500ms
+[2023-04-27 11:06:52.511 +07:00  INF]  Request starting HTTP/1.1 POST https://localhost:7251/api/contact application/json 840
+[2023-04-27 11:06:52.518 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 11:06:52.519 +07:00  INF]  Route matched with {action = "CreateContact", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateContact(ApplicationCore.Entities.Contact) on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 11:06:52.532 +07:00  INF]  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+[2023-04-27 11:06:52.532 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.CreateContact (TitanWeb) in 13.8082ms
+[2023-04-27 11:06:52.533 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 11:06:52.533 +07:00  INF]  Request finished HTTP/1.1 POST https://localhost:7251/api/contact application/json 840 - 400 - application/problem+json;+charset=utf-8 21.7437ms
+[2023-04-27 11:26:19.575 +07:00  INF]  Request starting HTTP/1.1 POST https://localhost:7251/api/contact application/json 818
+[2023-04-27 11:26:19.578 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 11:26:19.578 +07:00  INF]  Route matched with {action = "CreateContact", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateContact(ApplicationCore.Entities.Contact) on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 11:26:19.583 +07:00  INF]  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+[2023-04-27 11:26:19.583 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.CreateContact (TitanWeb) in 5.0888ms
+[2023-04-27 11:26:19.583 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.CreateContact (TitanWeb)'
+[2023-04-27 11:26:19.584 +07:00  INF]  Request finished HTTP/1.1 POST https://localhost:7251/api/contact application/json 818 - 400 - application/problem+json;+charset=utf-8 15.0584ms
+[2023-04-27 11:32:15.976 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-27 11:32:16.321 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-27 11:32:16.324 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-27 11:32:16.343 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-27 11:32:16.349 +07:00  INF]  Hosting environment: Development
+[2023-04-27 11:32:16.352 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-27 11:32:17.425 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:32:20.609 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/contact application/json 818
+[2023-04-27 11:32:20.727 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.GetAll (TitanWeb)'
+[2023-04-27 11:32:20.765 +07:00  INF]  Route matched with {action = "GetAll", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 11:32:21.128 +07:00  INF]  Getting All contract Table..
+[2023-04-27 11:32:21.691 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-27 11:32:21.913 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 11:32:21.937 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4515.5574ms
+[2023-04-27 11:32:22.540 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 11:32:22.546 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 6.5158ms
+[2023-04-27 11:32:23.343 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.GetAll (TitanWeb) in 2567.8492ms
+[2023-04-27 11:32:23.347 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.GetAll (TitanWeb)'
+[2023-04-27 11:32:23.428 +07:00  ERR]  The source IQueryable doesn't implement IDbAsyncEnumerable<ApplicationCore.Entities.Contact>. Only sources that implement IDbAsyncEnumerable can be used for Entity Framework asynchronous operations. For more details see http://go.microsoft.com/fwlink/?LinkId=287068.
+[2023-04-27 11:32:23.677 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/contact application/json 818 - 500 - application/json 3068.4030ms
+[2023-04-27 11:32:25.473 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:32:29.548 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 11:32:29.548 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4075.0730ms
+[2023-04-27 11:32:29.641 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 11:32:29.643 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 2.1278ms
+[2023-04-27 11:32:32.621 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:32:34.927 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/contact/type application/json 818
+[2023-04-27 11:32:34.940 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.ContactController.GetContactById (TitanWeb)'
+[2023-04-27 11:32:34.993 +07:00  INF]  Route matched with {action = "GetContactById", controller = "Contact"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetContactById(Int32) on controller TitanWeb.Controllers.ContactController (TitanWeb).
+[2023-04-27 11:32:35.040 +07:00  INF]  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+[2023-04-27 11:32:35.126 +07:00  INF]  Executed action TitanWeb.Controllers.ContactController.GetContactById (TitanWeb) in 132.8382ms
+[2023-04-27 11:32:35.126 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.ContactController.GetContactById (TitanWeb)'
+[2023-04-27 11:32:35.126 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/contact/type application/json 818 - 400 - application/problem+json;+charset=utf-8 199.2340ms
+[2023-04-27 11:32:42.644 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-27 11:32:42.644 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10023.3839ms
+[2023-04-27 11:32:42.787 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-27 11:32:42.787 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6109ms
+[2023-04-27 11:32:45.759 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-27 11:32:48.431 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/1 application/json 818
+[2023-04-27 11:32:48.432 +07:00  INF]  Executing endpoint 'Fallback {*path:nonfile}'
+[2023-04-27 11:32:48.432 +07:00  INF]  Executed endpoint 'Fallback {*path:nonfile}'
+[2023-04-27 11:32:48.535 +07:00  ERR]  Router not found
+[2023-04-27 11:32:48.535 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/1 application/json 818 - 400 - application/json 104.5412ms
+[2023-04-27 11:32:55.304 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-27 11:32:55.308 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-27 11:32:55.308 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 9549.4537ms
+[2023-04-27 11:33:11.749 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/type/1 application/json 818
+[2023-04-27 11:33:11.751 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-27 11:33:11.754 +07:00  INF]  Route matched with {action = "GetPostByTypeId", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeId(Int32) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-27 11:33:11.758 +07:00  INF]  Getting a Post Type record By Id..
+[2023-04-27 11:33:13.035 +07:00  INF]  Executed DbCommand (155ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-27 11:33:13.256 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-27 11:33:13.305 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb) in 1550.8446ms
+[2023-04-27 11:33:13.306 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-27 11:33:13.315 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/type/1 application/json 818 - 200 - application/json;+charset=utf-8 1565.8427ms
+[2023-04-27 11:33:18.177 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/type/12 application/json 818
+[2023-04-27 11:33:18.178 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-27 11:33:18.178 +07:00  INF]  Route matched with {action = "GetPostByTypeId", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeId(Int32) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-27 11:33:18.181 +07:00  INF]  Getting a Post Type record By Id..
+[2023-04-27 11:33:18.202 +07:00  INF]  Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-27 11:33:18.208 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-27 11:33:18.208 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb) in 30.2256ms
+[2023-04-27 11:33:18.208 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-27 11:33:18.209 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/type/12 application/json 818 - 200 - application/json;+charset=utf-8 31.4557ms
+[2023-04-27 11:33:37.538 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/type/cate application/json 818
+[2023-04-27 11:33:37.538 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-27 11:33:37.538 +07:00  INF]  Route matched with {action = "GetPostByTypeId", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeId(Int32) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-27 11:33:37.546 +07:00  INF]  Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+[2023-04-27 11:33:37.547 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb) in 8.1387ms
+[2023-04-27 11:33:37.547 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-27 11:33:37.547 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/type/cate application/json 818 - 400 - application/problem+json;+charset=utf-8 9.0060ms
+[2023-04-27 11:33:53.134 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/type/ application/json 818
+[2023-04-27 11:33:53.134 +07:00  INF]  Executing endpoint 'Fallback {*path:nonfile}'
+[2023-04-27 11:33:53.135 +07:00  INF]  Executed endpoint 'Fallback {*path:nonfile}'
+[2023-04-27 11:33:53.213 +07:00  ERR]  Router not found
+[2023-04-27 11:33:53.213 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/type/ application/json 818 - 400 - application/json 79.4586ms

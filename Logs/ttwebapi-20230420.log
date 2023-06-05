@@ -1,0 +1,303 @@
+[2023-04-20 11:18:35.839 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-20 11:18:36.428 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-20 11:18:36.431 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-20 11:18:36.444 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-20 11:18:36.448 +07:00  INF]  Hosting environment: Development
+[2023-04-20 11:18:36.451 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-20 11:18:38.196 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:18:42.533 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-20 11:18:42.745 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:18:42.769 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4579.1066ms
+[2023-04-20 11:18:44.319 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:18:44.441 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 121.2833ms
+[2023-04-20 11:18:47.265 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:18:51.360 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:18:51.360 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4094.5570ms
+[2023-04-20 11:18:51.953 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:18:51.954 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.1095ms
+[2023-04-20 11:18:54.955 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:18:59.050 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:18:59.051 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4095.9788ms
+[2023-04-20 11:18:59.579 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:18:59.581 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.6417ms
+[2023-04-20 11:19:02.578 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:19:06.672 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:19:06.673 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4094.5183ms
+[2023-04-20 11:19:07.220 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:19:07.221 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6664ms
+[2023-04-20 11:19:10.230 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:19:14.325 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:19:14.325 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4095.1676ms
+[2023-04-20 11:19:15.345 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:19:15.346 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.4018ms
+[2023-04-20 11:19:18.345 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:19:22.439 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:19:22.440 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4094.8883ms
+[2023-04-20 11:19:23.106 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:19:23.118 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 11.8155ms
+[2023-04-20 11:19:26.093 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:19:30.190 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:19:30.190 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4097.7790ms
+[2023-04-20 11:19:31.629 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:19:31.633 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.9725ms
+[2023-04-20 11:19:34.607 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:19:38.705 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:19:38.706 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4099.4187ms
+[2023-04-20 11:19:39.943 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:19:39.943 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6072ms
+[2023-04-20 11:19:42.962 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:19:47.062 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:19:47.063 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4100.8452ms
+[2023-04-20 11:19:47.712 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:19:47.712 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.7191ms
+[2023-04-20 11:19:50.705 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:19:50.763 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - -
+[2023-04-20 11:19:50.806 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:19:50.869 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-20 11:19:54.810 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:19:54.810 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4105.1521ms
+[2023-04-20 11:19:55.756 +07:00  INF]  Get post by type support pagination executing...
+[2023-04-20 11:19:56.191 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:19:56.192 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.7525ms
+[2023-04-20 11:19:56.805 +07:00  INF]  Executed DbCommand (191ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:19:57.084 +07:00  INF]  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:19:57.120 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.PagedResponse`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-20 11:19:57.458 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 6581.5637ms
+[2023-04-20 11:19:57.460 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:19:57.520 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - - - 200 - application/json;+charset=utf-8 6757.1701ms
+[2023-04-20 11:19:59.197 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:20:03.283 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:20:03.283 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4086.4887ms
+[2023-04-20 11:20:03.807 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:20:03.809 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.8983ms
+[2023-04-20 11:20:06.380 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/4 - -
+[2023-04-20 11:20:06.386 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:20:06.386 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-20 11:20:06.404 +07:00  INF]  Get post by type support pagination executing...
+[2023-04-20 11:20:06.406 +07:00  INF]  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:20:06.571 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 184.3104ms
+[2023-04-20 11:20:06.573 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:20:06.704 +07:00  ERR]  Value cannot be null. (Parameter 'Invalid post with type ID 4')
+[2023-04-20 11:20:06.717 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/4 - - - 404 - application/json 336.9943ms
+[2023-04-20 11:20:06.826 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:20:10.933 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:20:10.933 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4107.4157ms
+[2023-04-20 11:20:11.556 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:20:11.557 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.7563ms
+[2023-04-20 11:20:14.555 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:20:24.577 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:20:24.578 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10022.9475ms
+[2023-04-20 11:20:25.775 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:20:25.775 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6293ms
+[2023-04-20 11:20:28.776 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:20:38.796 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:20:38.796 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10020.7789ms
+[2023-04-20 11:20:39.592 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:20:39.593 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6349ms
+[2023-04-20 11:20:42.592 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:20:47.878 +07:00  ERR]  Unable to connect to the SPA development server at 'https://localhost:44467'.
+[2023-04-20 11:20:52.621 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-20 11:20:52.676 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:20:52.676 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10084.3339ms
+[2023-04-20 11:20:53.642 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:20:53.646 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 3.2108ms
+[2023-04-20 11:20:56.643 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:21:06.665 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:21:06.665 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10022.8560ms
+[2023-04-20 11:21:07.635 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:21:07.636 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.7950ms
+[2023-04-20 11:21:10.625 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:21:20.636 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:21:20.637 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10012.0233ms
+[2023-04-20 11:21:21.300 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:21:21.300 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.7247ms
+[2023-04-20 11:21:24.311 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:22:26.713 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-20 11:22:27.091 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-20 11:22:27.093 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-20 11:22:27.105 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-20 11:22:27.108 +07:00  INF]  Hosting environment: Development
+[2023-04-20 11:22:27.110 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-20 11:22:27.811 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:22:31.055 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/4 - -
+[2023-04-20 11:22:31.280 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:22:31.378 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-20 11:22:32.353 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-20 11:22:32.605 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:22:32.633 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4833.4530ms
+[2023-04-20 11:22:35.849 +07:00  INF]  Get post by type support pagination executing...
+[2023-04-20 11:22:35.938 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:22:35.949 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 11.1274ms
+[2023-04-20 11:22:36.929 +07:00  INF]  Executed DbCommand (143ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:22:37.447 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 6055.8909ms
+[2023-04-20 11:22:37.450 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:22:37.655 +07:00  ERR]  Post not found with Type ID 4
+[2023-04-20 11:22:38.046 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/4 - - - 400 - application/json 6991.4349ms
+[2023-04-20 11:22:38.860 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:22:48.872 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:22:48.872 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10012.8871ms
+[2023-04-20 11:22:49.665 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:22:49.670 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 5.0958ms
+[2023-04-20 11:22:52.669 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:23:02.693 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:23:02.694 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10024.2716ms
+[2023-04-20 11:26:20.107 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-20 11:26:20.466 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-20 11:26:20.468 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-20 11:26:20.481 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-20 11:26:20.484 +07:00  INF]  Hosting environment: Development
+[2023-04-20 11:26:20.486 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-20 11:26:21.069 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:26:25.344 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-20 11:26:25.513 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:26:25.531 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4465.0483ms
+[2023-04-20 11:26:26.548 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/2 - -
+[2023-04-20 11:26:26.694 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:26:26.770 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-20 11:26:26.899 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:26:26.910 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 11.2455ms
+[2023-04-20 11:26:29.216 +07:00  INF]  Get post by type support pagination executing...
+[2023-04-20 11:26:29.835 +07:00  INF]  Executed DbCommand (84ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:26:29.839 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:26:30.059 +07:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:26:30.094 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.PagedResponse`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-20 11:26:30.398 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 3617.9564ms
+[2023-04-20 11:26:30.400 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:26:30.456 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/2 - - - 200 - application/json;+charset=utf-8 3907.5922ms
+[2023-04-20 11:26:39.868 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:26:39.869 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10029.8456ms
+[2023-04-20 11:26:40.677 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:26:40.679 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 2.5956ms
+[2023-04-20 11:26:43.674 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:26:53.702 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-20 11:26:53.702 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10028.6545ms
+[2023-04-20 11:26:54.802 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-20 11:26:54.802 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4055ms
+[2023-04-20 11:26:57.806 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-20 11:26:59.934 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-20 11:27:00.052 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-20 11:27:00.052 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 2246.3494ms
+[2023-04-20 11:27:04.785 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/3 - -
+[2023-04-20 11:27:04.787 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:27:04.787 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-20 11:27:04.796 +07:00  INF]  Get post by type support pagination executing...
+[2023-04-20 11:27:04.800 +07:00  INF]  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:27:04.905 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 118.3724ms
+[2023-04-20 11:27:04.906 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:27:05.030 +07:00  ERR]  Post not found with Type ID 3
+[2023-04-20 11:27:05.038 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/3 - - - 400 - application/json 253.1264ms
+[2023-04-20 11:27:13.899 +07:00  INF]  Request starting HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - -
+[2023-04-20 11:27:13.899 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:27:13.899 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-20 11:27:13.998 +07:00  INF]  Get post by type support pagination executing...
+[2023-04-20 11:27:14.003 +07:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:27:14.008 +07:00  INF]  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:27:14.011 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.PagedResponse`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-20 11:27:14.012 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 112.5793ms
+[2023-04-20 11:27:14.012 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-20 11:27:14.012 +07:00  INF]  Request finished HTTP/1.1 GET https://localhost:7251/api/post/typeWithPagination/1 - - - 200 - application/json;+charset=utf-8 113.4970ms
+[2023-04-20 11:29:08.500 +07:00  INF]  Request starting HTTP/2 OPTIONS https://localhost:7251/api/sliderType/getAllWithSliderTable - -
+[2023-04-20 11:29:08.502 +07:00  INF]  Request starting HTTP/2 OPTIONS https://localhost:7251/api/post/type/2 - -
+[2023-04-20 11:29:08.527 +07:00  INF]  Request starting HTTP/2 OPTIONS https://localhost:7251/api/post/type/1 - -
+[2023-04-20 11:29:08.545 +07:00  INF]  CORS policy execution successful.
+[2023-04-20 11:29:08.545 +07:00  INF]  CORS policy execution successful.
+[2023-04-20 11:29:08.545 +07:00  INF]  CORS policy execution successful.
+[2023-04-20 11:29:08.549 +07:00  INF]  Request finished HTTP/2 OPTIONS https://localhost:7251/api/post/type/2 - - - 204 - - 47.8024ms
+[2023-04-20 11:29:08.549 +07:00  INF]  Request finished HTTP/2 OPTIONS https://localhost:7251/api/post/type/1 - - - 204 - - 21.7361ms
+[2023-04-20 11:29:08.549 +07:00  INF]  Request finished HTTP/2 OPTIONS https://localhost:7251/api/sliderType/getAllWithSliderTable - - - 204 - - 48.9986ms
+[2023-04-20 11:29:08.559 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/api/sliderType/getAllWithSliderTable application/json -
+[2023-04-20 11:29:08.559 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/api/post/type/1 application/json -
+[2023-04-20 11:29:08.559 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/api/post/type/2 application/json -
+[2023-04-20 11:29:08.559 +07:00  INF]  CORS policy execution successful.
+[2023-04-20 11:29:08.559 +07:00  INF]  CORS policy execution successful.
+[2023-04-20 11:29:08.560 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-20 11:29:08.560 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-20 11:29:08.560 +07:00  INF]  CORS policy execution successful.
+[2023-04-20 11:29:08.560 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.SliderTypeController.GetAll (TitanWeb)'
+[2023-04-20 11:29:08.564 +07:00  INF]  Route matched with {action = "GetPostByTypeId", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeId(Int32) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-20 11:29:08.564 +07:00  INF]  Route matched with {action = "GetAll", controller = "SliderType"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller TitanWeb.Controllers.SliderTypeController (TitanWeb).
+[2023-04-20 11:29:08.564 +07:00  INF]  Route matched with {action = "GetPostByTypeId", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeId(Int32) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-20 11:29:08.570 +07:00  INF]  Getting all slider type table..
+[2023-04-20 11:29:08.575 +07:00  INF]  Get post by typeId executing...
+[2023-04-20 11:29:08.593 +07:00  INF]  Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:29:08.595 +07:00  INF]  Get post by typeId executing...
+[2023-04-20 11:29:08.599 +07:00  INF]  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-20 11:29:08.606 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-20 11:29:08.607 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-20 11:29:08.610 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb) in 45.5462ms
+[2023-04-20 11:29:08.610 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-20 11:29:08.610 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb) in 46.1595ms
+[2023-04-20 11:29:08.610 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-20 11:29:08.610 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/api/post/type/1 application/json - - 200 - application/json;+charset=utf-8 51.8137ms
+[2023-04-20 11:29:08.610 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/api/post/type/2 application/json - - 200 - application/json;+charset=utf-8 51.9396ms
+[2023-04-20 11:29:08.638 +07:00  INF]  Executed DbCommand (35ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Description], [s].[Title]
+FROM [SliderType] AS [s]
+[2023-04-20 11:29:08.681 +07:00  INF]  Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.750 +07:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.753 +07:00  INF]  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.753 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.754 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.754 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.754 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.755 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.SliderType, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-20 11:29:08.758 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.761 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.762 +07:00  INF]  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.763 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.764 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.766 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.767 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-20 11:29:08.768 +07:00  INF]  Executed action TitanWeb.Controllers.SliderTypeController.GetAll (TitanWeb) in 204.0223ms
+[2023-04-20 11:29:08.768 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.SliderTypeController.GetAll (TitanWeb)'
+[2023-04-20 11:29:08.768 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/api/sliderType/getAllWithSliderTable application/json - - 200 - application/json;+charset=utf-8 209.9357ms

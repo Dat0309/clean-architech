@@ -1,0 +1,336 @@
+[2023-04-18 08:41:17.648 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-18 08:41:18.077 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-18 08:41:18.079 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-18 08:41:18.088 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-18 08:41:18.091 +07:00  INF]  Hosting environment: Development
+[2023-04-18 08:41:18.093 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-18 08:41:20.063 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:41:24.520 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:41:24.670 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:41:24.688 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4637.5439ms
+[2023-04-18 08:41:24.886 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:41:24.977 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 91.4270ms
+[2023-04-18 08:41:27.883 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:41:29.805 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:41:31.998 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:41:32.039 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:41:32.041 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4157.3276ms
+[2023-04-18 08:41:32.168 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:41:32.169 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.2104ms
+[2023-04-18 08:41:35.181 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:41:37.138 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:41:39.281 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:41:39.336 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:41:39.336 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4155.4499ms
+[2023-04-18 08:41:39.414 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:41:39.417 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 2.6468ms
+[2023-04-18 08:41:42.412 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:41:44.434 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:41:46.573 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:41:46.628 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:41:46.629 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4217.1848ms
+[2023-04-18 08:41:46.706 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:41:46.706 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.3019ms
+[2023-04-18 08:41:49.694 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:41:51.709 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:41:53.788 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:41:53.884 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:41:53.885 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4190.3094ms
+[2023-04-18 08:41:53.974 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:41:53.974 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.3809ms
+[2023-04-18 08:41:56.962 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:41:59.000 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:42:01.050 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:42:01.173 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:42:01.173 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4211.5920ms
+[2023-04-18 08:42:01.259 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:42:01.260 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.9407ms
+[2023-04-18 08:42:04.235 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:42:06.287 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:42:08.332 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:42:08.371 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:42:08.375 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4137.3978ms
+[2023-04-18 08:42:08.461 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:42:08.461 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4617ms
+[2023-04-18 08:42:11.462 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:42:13.477 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:42:15.584 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:42:15.639 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:42:15.640 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4180.1066ms
+[2023-04-18 08:42:15.726 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:42:15.726 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6116ms
+[2023-04-18 08:42:21.427 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-18 08:42:21.734 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-18 08:42:21.736 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-18 08:42:21.747 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-18 08:42:21.749 +07:00  INF]  Hosting environment: Development
+[2023-04-18 08:42:21.751 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-18 08:42:22.385 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:42:26.607 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:42:26.747 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:42:26.763 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4381.7720ms
+[2023-04-18 08:42:26.943 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:42:27.045 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 101.6197ms
+[2023-04-18 08:42:29.935 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:42:31.908 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:42:34.060 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:42:34.135 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:42:34.136 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4201.5067ms
+[2023-04-18 08:42:34.201 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:42:34.202 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.1317ms
+[2023-04-18 08:42:37.191 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:42:39.223 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:42:41.321 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:42:41.361 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:42:41.361 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4170.7114ms
+[2023-04-18 08:42:41.440 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:42:41.443 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 2.8797ms
+[2023-04-18 08:42:44.411 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:42:46.482 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:42:48.509 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:42:48.562 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:42:48.563 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4151.9019ms
+[2023-04-18 08:42:48.630 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:42:48.630 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.4102ms
+[2023-04-18 08:42:51.639 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:42:53.665 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:42:55.767 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:42:55.827 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:42:55.828 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4190.0002ms
+[2023-04-18 08:42:55.907 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:42:55.908 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.1561ms
+[2023-04-18 08:42:58.888 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:43:00.943 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:43:02.989 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:43:03.032 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:43:03.033 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4144.8234ms
+[2023-04-18 08:43:03.137 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:43:03.138 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.3485ms
+[2023-04-18 08:43:06.112 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:43:08.142 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:43:10.208 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:43:10.275 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:43:10.276 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4163.7632ms
+[2023-04-18 08:43:10.418 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:43:10.419 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6007ms
+[2023-04-18 08:43:13.365 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:43:15.378 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:43:17.445 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:43:17.485 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:43:17.486 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4121.5542ms
+[2023-04-18 08:43:17.575 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:43:17.575 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.3848ms
+[2023-04-18 08:43:20.564 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:43:22.597 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:43:24.648 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:43:24.691 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:43:24.692 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4128.0009ms
+[2023-04-18 08:43:24.909 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:43:24.923 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 11.8201ms
+[2023-04-18 08:43:27.883 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:43:29.792 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:43:31.955 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:43:32.006 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:43:32.007 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4123.9105ms
+[2023-04-18 08:43:32.156 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:43:32.157 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.7447ms
+[2023-04-18 08:43:35.193 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:43:37.098 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:43:39.295 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:43:39.350 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:43:39.351 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4157.4834ms
+[2023-04-18 08:43:39.482 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:43:39.482 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.4169ms
+[2023-04-18 08:43:42.427 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:43:44.475 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:43:46.515 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:43:46.564 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:43:46.565 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4138.4812ms
+[2023-04-18 08:43:48.600 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:43:48.601 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.6246ms
+[2023-04-18 08:43:51.526 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:43:51.654 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:43:55.624 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:43:55.693 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:43:55.693 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4167.1701ms
+[2023-04-18 08:43:56.341 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:43:56.341 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.8022ms
+[2023-04-18 08:43:59.342 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:44:00.824 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:44:03.426 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:44:03.462 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:44:03.462 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4120.2420ms
+[2023-04-18 08:44:04.181 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:44:04.182 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.8737ms
+[2023-04-18 08:44:07.188 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:44:08.557 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:44:11.280 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:44:11.380 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:44:11.381 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4193.3949ms
+[2023-04-18 08:44:12.164 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:44:12.166 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.3144ms
+[2023-04-18 08:44:15.167 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:46:45.317 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-18 08:46:45.590 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-18 08:46:45.592 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-18 08:46:45.606 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-18 08:46:45.609 +07:00  INF]  Hosting environment: Development
+[2023-04-18 08:46:45.612 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-18 08:46:45.973 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:46:50.222 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:46:50.367 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:46:50.383 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4416.8255ms
+[2023-04-18 08:46:51.408 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:46:51.508 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 99.8774ms
+[2023-04-18 08:46:54.405 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:46:55.505 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:46:58.528 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:46:58.593 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:46:58.598 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4194.3291ms
+[2023-04-18 08:46:59.210 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:46:59.212 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.7173ms
+[2023-04-18 08:47:02.215 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:47:03.716 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:47:06.317 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:47:06.376 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:47:06.377 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4161.6493ms
+[2023-04-18 08:47:07.109 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:47:07.110 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.6957ms
+[2023-04-18 08:47:10.131 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:47:11.478 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:47:14.306 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:47:14.349 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:47:14.350 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4219.5715ms
+[2023-04-18 08:47:14.967 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:47:14.967 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 0.8091ms
+[2023-04-18 08:47:17.982 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:47:19.441 +07:00  ERR]  Couldn't start the SPA development server with command 'npm start'.
+[2023-04-18 08:47:22.057 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:47:22.098 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:47:22.099 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4117.0431ms
+[2023-04-18 08:59:02.382 +07:00  INF]  User profile is available. Using 'C:\Users\anhth\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2023-04-18 08:59:02.670 +07:00  INF]  Now listening on: https://localhost:7251
+[2023-04-18 08:59:02.673 +07:00  INF]  Now listening on: http://localhost:5297
+[2023-04-18 08:59:02.682 +07:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-04-18 08:59:02.686 +07:00  INF]  Hosting environment: Development
+[2023-04-18 08:59:02.689 +07:00  INF]  Content root path: E:\INTERNSHIP\Internship-Training\src\TitanWeb\
+[2023-04-18 08:59:03.465 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:59:07.684 +07:00  INF]  No SPA development server running at https://localhost:44467 found.
+[2023-04-18 08:59:07.819 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:59:07.843 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 4380.0248ms
+[2023-04-18 08:59:08.776 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:59:08.865 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 88.7939ms
+[2023-04-18 08:59:11.737 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:59:21.757 +07:00  INF]  SPA proxy is not ready. Returning temporary landing page.
+[2023-04-18 08:59:21.757 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 200 - text/html 10020.0830ms
+[2023-04-18 08:59:22.287 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/favicon.ico - -
+[2023-04-18 08:59:22.288 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/favicon.ico - - - 403 - - 1.1745ms
+[2023-04-18 08:59:25.289 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/ - -
+[2023-04-18 08:59:28.354 +07:00  INF]  SPA proxy is ready. Redirecting to https://localhost:44467.
+[2023-04-18 08:59:28.355 +07:00  INF]  SPA development server running at 'https://localhost:44467'
+[2023-04-18 08:59:28.356 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/ - - - 302 0 - 3066.8015ms
+[2023-04-18 09:00:12.673 +07:00  INF]  Request starting HTTP/2 OPTIONS https://localhost:7251/api/sliderType/getAllWithSliderTable - -
+[2023-04-18 09:00:12.673 +07:00  INF]  Request starting HTTP/2 OPTIONS https://localhost:7251/api/post/type/2 - -
+[2023-04-18 09:00:12.682 +07:00  INF]  Request starting HTTP/2 OPTIONS https://localhost:7251/api/post/type/1 - -
+[2023-04-18 09:00:12.718 +07:00  INF]  CORS policy execution successful.
+[2023-04-18 09:00:12.718 +07:00  INF]  CORS policy execution successful.
+[2023-04-18 09:00:12.718 +07:00  INF]  CORS policy execution successful.
+[2023-04-18 09:00:12.722 +07:00  INF]  Request finished HTTP/2 OPTIONS https://localhost:7251/api/post/type/1 - - - 204 - - 40.0437ms
+[2023-04-18 09:00:12.723 +07:00  INF]  Request finished HTTP/2 OPTIONS https://localhost:7251/api/post/type/2 - - - 204 - - 49.2632ms
+[2023-04-18 09:00:12.723 +07:00  INF]  Request finished HTTP/2 OPTIONS https://localhost:7251/api/sliderType/getAllWithSliderTable - - - 204 - - 50.5138ms
+[2023-04-18 09:00:12.731 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/api/post/type/2 application/json -
+[2023-04-18 09:00:12.731 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/api/post/type/1 application/json -
+[2023-04-18 09:00:12.732 +07:00  INF]  CORS policy execution successful.
+[2023-04-18 09:00:12.732 +07:00  INF]  CORS policy execution successful.
+[2023-04-18 09:00:12.732 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/api/sliderType/getAllWithSliderTable application/json -
+[2023-04-18 09:00:12.732 +07:00  INF]  CORS policy execution successful.
+[2023-04-18 09:00:12.777 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.SliderTypeController.GetAll (TitanWeb)'
+[2023-04-18 09:00:12.777 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-18 09:00:12.777 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-18 09:00:12.823 +07:00  INF]  Route matched with {action = "GetAll", controller = "SliderType"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller TitanWeb.Controllers.SliderTypeController (TitanWeb).
+[2023-04-18 09:00:12.827 +07:00  INF]  Route matched with {action = "GetPostByTypeId", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeId(Int32) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-18 09:00:12.827 +07:00  INF]  Route matched with {action = "GetPostByTypeId", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeId(Int32) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-18 09:00:13.896 +07:00  INF]  Get aal slider type executing...
+[2023-04-18 09:00:13.926 +07:00  INF]  Get post by typeId executing...
+[2023-04-18 09:00:13.928 +07:00  INF]  Get post by typeId executing...
+[2023-04-18 09:00:17.313 +07:00  INF]  Executed DbCommand (125ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-18 09:00:17.313 +07:00  INF]  Executed DbCommand (125ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-18 09:00:17.313 +07:00  INF]  Executed DbCommand (125ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Description], [s].[Title]
+FROM [SliderType] AS [s]
+[2023-04-18 09:00:17.492 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-18 09:00:17.492 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-18 09:00:17.502 +07:00  INF]  Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.559 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.561 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.562 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.563 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.564 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.564 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.565 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.Response`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.SliderType, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-18 09:00:17.683 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.701 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.701 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.703 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.703 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.705 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.706 +07:00  INF]  Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedTime], [s].[Description], [s].[Image], [s].[Ordering], [s].[Subtitle], [s].[Title], [s].[Type], [s].[Url]
+FROM [Slider] AS [s]
+[2023-04-18 09:00:17.716 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb) in 4882.9037ms
+[2023-04-18 09:00:17.716 +07:00  INF]  Executed action TitanWeb.Controllers.SliderTypeController.GetAll (TitanWeb) in 4886.8461ms
+[2023-04-18 09:00:17.716 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb) in 4882.885ms
+[2023-04-18 09:00:17.718 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-18 09:00:17.718 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.SliderTypeController.GetAll (TitanWeb)'
+[2023-04-18 09:00:17.718 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeId (TitanWeb)'
+[2023-04-18 09:00:17.737 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/api/post/type/1 application/json - - 200 - application/json;+charset=utf-8 5005.1966ms
+[2023-04-18 09:00:17.737 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/api/sliderType/getAllWithSliderTable application/json - - 200 - application/json;+charset=utf-8 5005.0734ms
+[2023-04-18 09:00:17.737 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/api/post/type/2 application/json - - 200 - application/json;+charset=utf-8 5005.2139ms
+[2023-04-18 09:00:29.769 +07:00  INF]  Request starting HTTP/2 OPTIONS https://localhost:7251/api/post/typeWithPagination/2?PageNumber=1&PageSize=6 - -
+[2023-04-18 09:00:29.772 +07:00  INF]  CORS policy execution successful.
+[2023-04-18 09:00:29.772 +07:00  INF]  Request finished HTTP/2 OPTIONS https://localhost:7251/api/post/typeWithPagination/2?PageNumber=1&PageSize=6 - - - 204 - - 2.5216ms
+[2023-04-18 09:00:29.783 +07:00  INF]  Request starting HTTP/2 GET https://localhost:7251/api/post/typeWithPagination/2?PageNumber=1&PageSize=6 application/json -
+[2023-04-18 09:00:29.783 +07:00  INF]  CORS policy execution successful.
+[2023-04-18 09:00:29.783 +07:00  INF]  Executing endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-18 09:00:29.789 +07:00  INF]  Route matched with {action = "GetPostByTypeWithPagination", controller = "Post"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPostByTypeWithPagination(Int32, ApplicationCore.Filer.PaginationFilter) on controller TitanWeb.Controllers.PostController (TitanWeb).
+[2023-04-18 09:00:29.821 +07:00  INF]  Get post by type support pagination executing...
+[2023-04-18 09:00:29.889 +07:00  INF]  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-18 09:00:29.899 +07:00  INF]  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Author], [p].[CreatedTime], [p].[FullDescription], [p].[Image], [p].[ShortDescription], [p].[Title], [p].[Type], [p].[Url]
+FROM [Post] AS [p]
+[2023-04-18 09:00:29.909 +07:00  INF]  Executing OkObjectResult, writing value of type 'ApplicationCore.Wrappers.PagedResponse`1[[System.Collections.Generic.IEnumerable`1[[ApplicationCore.Entities.Post, ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2023-04-18 09:00:29.925 +07:00  INF]  Executed action TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb) in 136.344ms
+[2023-04-18 09:00:29.925 +07:00  INF]  Executed endpoint 'TitanWeb.Controllers.PostController.GetPostByTypeWithPagination (TitanWeb)'
+[2023-04-18 09:00:29.926 +07:00  INF]  Request finished HTTP/2 GET https://localhost:7251/api/post/typeWithPagination/2?PageNumber=1&PageSize=6 application/json - - 200 - application/json;+charset=utf-8 142.8294ms
