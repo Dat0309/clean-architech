@@ -1,0 +1,125 @@
+@import '../../variables.scss';
+
+footer {
+    .footer {
+        &__header {
+            background-color: $bg-dark-gray;
+            color: $text-white;
+
+            &--container {
+                padding: 46px 0px;
+                display: flex;
+                justify-content: space-between;
+                max-width: 1240px;
+                margin: 0 auto;
+
+                div {
+                    font-size: 28px;
+                }
+            }
+
+            &__icon {
+                width: 15px;
+            }
+        }
+
+        &__find-btn {
+            font-size: 22px;
+            display: flex;
+            align-items: center;
+            text-transform: uppercase;
+            gap: 10px;
+            color: $text-white;
+            background: transparent;
+            font-family: $primary-font;
+        }
+
+        &__btn-go-top {
+            display: flex;
+            justify-content: flex-end;
+            padding: 0 20px;
+            margin-bottom: 15px;
+
+            button {
+                background: transparent;
+
+                img {
+                    width: 60px;
+                }
+            }
+        }
+
+        &__policy {
+            background-color: $bg-light-gray;
+
+            &--container {
+                max-width: 1240px;
+                margin: 0 auto;
+                padding: 35px 0px;
+                display: flex;
+                justify-content: space-between;
+
+                &__policy {
+                    font-size: 22px;
+                    font-weight: 300;
+                    color: $text-gray;
+
+                    a {
+                        color: $text-gray;
+
+                        &:hover {
+                            color: $text-blue;
+                        }
+                    }
+                }
+
+                &__social-icon {
+                    display: flex;
+                    gap: 20px;
+
+                    span {
+                        font-size: 22px;
+                    }
+
+                    img {
+                        width: 30px;
+                        height: 30px;
+                    }
+                }
+            }
+        }
+
+        &__contact.grid {
+            margin-top: 30px;
+
+            .card-footer-contact {
+                h3 {
+                    padding-top: 0;
+                }
+            }
+        }
+
+        &__location.grid {
+            margin-top: 34px;
+        }
+    }
+
+    #map {
+        height: 0;
+        transition: linear 0.3s;
+        overflow: hidden;
+
+        &.show {
+            height: 500px;
+        }
+    }
+
+    .grid {
+        max-width: 1240px;
+        margin: 0 auto;
+        padding: 30px 0px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 70px;
+    }
+}

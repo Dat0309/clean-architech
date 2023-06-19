@@ -1,0 +1,55 @@
+@import '../../../variables.scss';
+
+.card-footer-contact {
+    p {
+        font-size: 22px;
+        font-weight: 200;
+        color: $text-gray;
+        line-height: 1.5em;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 0;
+
+        &.flex {
+            display: flex;
+            justify-content: space-between;
+        }                
+    }
+
+    h3 {
+        font-size: 24px;
+        padding: 16px 0;
+        font-weight: 400;
+        margin-bottom: 16px;
+        border-bottom: 2px solid $text-gray;
+        font-family: $primary-font;
+    }
+
+    p.card-footer-contact__tel,
+    a {
+        font-weight: 400;
+        color: $text-black;
+
+        &:hover {
+            color: $text-black;
+        }
+    }    
+
+    &__icon {
+        width: 20px;
+    }
+
+    &__mail-skype {
+        margin-bottom: 20px;
+
+        a {
+            font-weight: 300;
+            color: $text-gray;
+
+            &:hover {
+                color: $text-blue;
+            }
+        }
+    }    
+}

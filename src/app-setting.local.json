@@ -1,0 +1,10 @@
+{
+    "BaseURL": "https://localhost:7251/api/",
+    "PathURL": {
+        "Slider": "slider/",
+        "SliderType": "sliderType/",
+        "Post": "post/",
+        "Contact": "contact/"
+    },
+    "Language": "en"
+}

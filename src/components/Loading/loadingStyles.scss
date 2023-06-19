@@ -1,0 +1,34 @@
+@import '../../Variables.scss';
+
+.loading__container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+    background-color: $bg-white;
+    opacity: 1;  
+
+    &__logo {
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    &__animation {
+        width: 200px;
+        height: 50px;
+        background: url(https://www.titancorpvn.com/assets/images/preloader.gif) 50% no-repeat;
+    }
+
+    &.fade {
+        opacity: 0;
+        visibility: hidden;
+        transition: linear 0.5s;
+    }        
+}

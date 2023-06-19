@@ -1,0 +1,59 @@
+@import '../../variables.scss';
+
+.box-content {
+    padding: 50px 0px 100px;
+
+    &__wrapper {
+        padding: 0 15px;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 1400px;
+    }
+
+    &.with-bg-image {
+        background-position: center center;
+        background-size: cover;
+        background-attachment: fixed;
+        color: $text-white;
+    }
+
+    &__title-venture {
+        &__title {
+            font-size: 32pt;
+            font-weight: 400;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: .5px;
+            margin-bottom: 40px;
+            
+            &:first-child {
+                margin-top: 40px;
+            }
+        }
+
+        &__subtitle {
+            font-size: 30px;
+            text-align: center;
+            margin: 0 auto;
+            font-weight: 300;
+            line-height: 1.5;
+            color: $text-gray;
+        }
+    }
+
+
+    span {
+        margin-bottom: 10px;
+    }
+
+    &__content {
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media (max-width: 1366px) {
+    .box-content__wrapper {
+        max-width: 1240px;
+    }
+}

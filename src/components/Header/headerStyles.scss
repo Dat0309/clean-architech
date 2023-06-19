@@ -1,0 +1,83 @@
+@import '../../variables.scss';
+
+.site-header {
+    transition: linear .3s;
+    position: fixed;
+    z-index: 1000;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    text-align: right;
+    padding: 15px 50px 16px;
+
+    &.scrolled {
+        background-color: $bg-header;
+    }
+}
+
+.header {
+    &__logo {
+        img {
+            width: 150px;
+        }
+    }
+
+    &__navigation {
+        display: inline-block;
+        color: $text-white;
+
+        &__menu {
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+
+            .menu-item {
+                vertical-align: text-top;
+                margin: 0 20px;
+                display: inline-block;
+            }
+
+            .current {
+                font-weight: 300;
+                text-transform: capitalize;
+
+                .current-item {
+                    font-size: 22px;
+                    text-decoration: none;
+                    color: $text-white;
+                }
+            }
+
+            .language {
+                font-weight: 300;
+                font-size: 22px;
+                text-transform: capitalize;
+                cursor: pointer;
+
+                img {
+                    margin-right: 10px;
+
+                    max-width: 100%;
+                }
+            }
+
+            .button {
+                text-align: right;
+                margin-right: 0px;
+
+                .btn-menu {
+                    display: inline-block;
+                    width: 32px;
+                    line-height: 0;
+                    cursor: pointer;
+
+                    img {
+                        max-width: 100%;
+                    }
+                }
+            }
+        }
+    }
+}

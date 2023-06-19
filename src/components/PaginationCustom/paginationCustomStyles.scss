@@ -1,0 +1,46 @@
+@import '../../Variables.scss';
+
+.pagination-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    .ui.tiny.pagination.pagination-container {
+        border: none;
+        box-shadow: none;
+        gap: 10px;
+    
+        a.item {
+            border: 1px solid $bd-blue;
+            font-size: 22px;
+            color: $text-blue;
+            padding: 0;
+            min-width: 0;
+            width: 34px;
+            height: 34px;
+            justify-content: center;
+            font-weight: 300;
+    
+            &::before {
+                display: none;
+            }
+    
+            &.active {
+                pointer-events: none;
+                border: 1px solid $bd-gray;
+                color: $text-light-black;
+            }
+    
+            &[type="nextItem"],
+            &[type="prevItem"] {
+                width: 70px;
+                border-radius: 2px;
+            }
+    
+            &:hover {
+                background-color: $bg-blue;
+                color: $text-white;
+            }
+        }
+    }
+}

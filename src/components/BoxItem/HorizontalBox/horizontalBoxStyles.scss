@@ -1,0 +1,47 @@
+@import '../../../variables.scss';
+
+.horizontal-box {
+
+    &.ui.grid>.row {
+        padding: 0;
+    }
+
+    &.bg {
+        background-color: $bg-light-gray;
+    }
+
+    &__image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .ui.container.horizontal-box__content {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        font-weight: 300;
+        padding-right: 75px;
+        padding-left: 40px;
+
+        button {
+            &.primary {
+                width: 200px;
+                justify-content: center;
+                padding: 15px 0;
+                font-family: $primary-font;
+                text-transform: uppercase;
+                font-size: 22px;
+            }
+        }
+
+        p {
+            text-align: justify;
+            color: $text-light-black;
+
+            &.gray-color {
+                color: $text-gray;
+            }
+        }
+    }
+}

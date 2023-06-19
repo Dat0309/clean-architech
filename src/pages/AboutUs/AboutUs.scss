@@ -1,0 +1,95 @@
+@import '../../variables.scss';
+
+.aboutpage__content {
+    padding: 50px 0 100px;
+
+    &--list {
+        margin-bottom: 20px;
+        position: relative;
+
+        li {
+            font-family: $primary-font;
+            line-height: 1.6;
+            color: $text-gray;
+            font-weight: 300;
+            font-size: 22px;
+            margin-left: 15px;
+        }
+    }
+
+    &--bold {
+        font-weight: 400;
+        color: $text-black;
+    }
+
+    &__culture__image {
+        display: flex;
+        margin-bottom: 20px;
+
+        span {
+            flex: 1;
+
+            img {
+                width: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+
+
+    .container {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0px 15px;
+
+        h2,
+        p {
+            font-family: $primary-font;
+            line-height: 1.6;
+        }
+
+        h2 {
+            text-transform: uppercase;
+            margin: 40px 0 30px;
+            color: $text-light-black;
+            font-size: 44px;
+            font-weight: 400;
+        }
+
+        p {
+            padding-bottom: 20px;
+            margin-bottom: 10px;
+            font-size: 22px;
+            color: $text-gray;
+            font-weight: 300;        
+        }        
+    }
+
+    &__contact.container {
+        p {
+            span {
+                display: block;
+
+                a {
+                    color: $text-gray;
+                    transition: linear 0.2s;
+    
+                    &:hover {
+                        color: $text-blue;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (min-width: 1366px) {
+    .container {
+        max-width: 1240px;
+    }
+}
+
+li::marker {
+    text-align: center;
+    font-size: 10px;
+}

@@ -1,0 +1,21 @@
+@import '../../../variables.scss';
+
+.image-box-slider {
+    img {
+        width: 100%;
+        cursor: pointer;
+        filter: grayscale(1);
+        transition: linear 0.2s;
+
+        &:hover {
+            filter: grayscale(0);
+        }
+    }
+
+    &.basic {
+        img {
+            width: 100%;
+            filter: grayscale(0);
+        }
+    }
+}

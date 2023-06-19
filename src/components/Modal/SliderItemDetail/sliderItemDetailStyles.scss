@@ -1,0 +1,76 @@
+@import '../../../variables.scss';
+
+.ui.page.modals.dimmer:has(.slider-detail-modal) {
+    .slider-detail-modal {
+        height: auto;
+        left: auto;
+        top: auto;
+
+        .content img {
+            object-fit: contain;
+        }
+
+        &__header {
+            display: flex;
+            justify-content: flex-end;
+            padding-top: 10px;
+            padding-bottom: 10px;
+
+            &__close-btn {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background-color: $bg-dark-gray;
+    
+                img {
+                    width: 15px;
+                }
+            }            
+        }    
+        
+        &__content {
+            &__header {
+                .content__header {
+                    &__title,
+                    &__sub-title {
+                        font-size: 22px;
+                        text-align: center;
+                        font-family: $primary-font;
+                    }
+
+                    &__title {
+                        color: $text-black;
+                        font-weight: 400;
+                        margin-bottom: 8px;
+                    }
+    
+                    &__sub-title {
+                        position: relative;
+                        color: $text-blue;
+                        font-weight: 400;
+                        margin-top: 0;
+                        padding-bottom: 11px;
+    
+                        &::before {
+                            content: '';
+                            position: absolute;
+                            bottom: 0;
+                            left: 50%;
+                            transform: translateX(-50%);
+                            width: 250px;
+                            border-bottom: 2px solid $border-gray;
+                            border-radius: 2px;
+                        }
+                    }
+                }                
+            }
+
+            &__description {
+                color: $text-gray;
+                font-size: 22px;
+                font-weight: 300;
+                text-align: left;
+            }
+        }
+    }
+}

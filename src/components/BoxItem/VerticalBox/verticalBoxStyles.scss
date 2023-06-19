@@ -1,0 +1,61 @@
+@import '../../../variables.scss';
+
+.vertical-box {
+    padding: 0px;
+    width: 100%;
+
+    .ui.card {
+        width: 100%;
+        box-shadow: none;
+    }
+
+    .ui.card>.content {
+        padding: 0;
+        text-align: left;
+    }
+
+    .ui.card .image {
+        height: 260px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .ui.card .content .header {
+        padding: 20px 0px 10px;
+        margin: 0;
+        text-transform: uppercase;
+        font-family: $primary-font;
+        color: $bg-dark-gray;
+        text-decoration: none;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 1.4;
+        min-height: 70px;
+        display: inline-block;
+        transition: linear 0.2s;
+
+        &:hover {
+            color: $text-blue;
+        }
+    }
+
+    .ui.card .description {
+        margin: 11px 0 0;
+        font-weight: 300;
+        color: $text-gray;
+        font-size: 22px;
+        font-family: $primary-font;
+        text-align: left;
+        line-height: 1.4;
+    }
+
+    .ui.card .meta {
+        color: $bg-dark-gray;
+        font-size: 22px;
+        font-weight: 300;
+
+        span {
+            margin-right: 0;
+        }
+    }
+}

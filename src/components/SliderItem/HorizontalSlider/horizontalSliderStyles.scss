@@ -1,0 +1,114 @@
+@import '../../../variables.scss';
+
+.horizontal-slider-item {
+    &__link {        
+        &:hover {
+            .horizontal-slider-item__title {
+                color: $text-blue;
+            }
+        }
+    }
+
+    &__image {
+        text-align: center;
+    }
+
+    &__title {
+        color: $text-white;
+        font-size: 28px;
+        text-align: center;
+        margin-bottom: 40px;
+        font-weight: 400;
+        font-family: $primary-font;
+        transition: linear 0.3s;
+    }
+
+    &__description {
+        font-size: 22px;
+        color: $text-white;
+        font-weight: 200;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+    &.basic {
+        .horizontal-slider-item {
+            &__link {                
+                &:hover {
+                    .horizontal-slider-item__title {
+                        color: $text-blue;
+                    }
+                }
+            }
+
+            &__title {
+                color: $text-black;
+            }
+
+            &__description {
+                color: $text-gray;
+                font-weight: 300;
+            }
+        }
+    }
+
+    &.pagination {
+        display: flex;
+        flex-direction: column;
+
+        .horizontal-slider-item {
+            &__link {
+                &.disable {
+                    pointer-events: none;
+                }                
+            }
+
+            &__title {
+                color: $text-black;
+                margin-bottom: 8px;
+                font-size: 28px;
+            }
+
+            &__sub-title {
+                position: relative;
+                margin-top: 0;
+                text-align: center;
+                font-size: 22px;
+                font-weight: 400;
+                color: $text-blue;
+                font-family: $primary-font;
+                padding-bottom: 33px;
+                margin-bottom: 33px;
+
+                &::before {
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    width: 350px;
+                    border-bottom: 2px solid $border-gray;
+                    border-radius: 2px;
+                }
+            }
+    
+            &__description {
+                margin: 0 auto;
+                width: 75%;
+                text-overflow: ellipsis;
+                overflow: hidden;
+                white-space: nowrap;
+                color: $text-gray;
+                font-weight: 300;
+            }
+            
+            &__btn-read-more {
+                font-family: $primary-font;
+                color: $text-blue;
+                font-weight: 300;
+                background: none;
+                font-size: 16px;
+            }
+        }        
+    }
+}

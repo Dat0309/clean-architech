@@ -1,0 +1,52 @@
+@import '../../../variables.scss';
+
+.special-vertical-box {
+    padding: 0 20px;
+    width: 100%;
+
+    &__link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border-bottom: 5px solid $bd-blue;
+        margin-bottom: 40px;     
+        padding-bottom: 40px;           
+
+        &:hover {
+            h2 {
+                color: $text-blue;
+            }
+        }
+    }
+
+    &__title {
+        font-family: $primary-font;
+        color: $text-black;
+        font-size: 28px;
+        font-weight: 400;
+        text-transform: uppercase;
+        margin-top: 0;
+        transition: linear 0.3s;
+        margin: 0;
+    }
+
+    &__icon {
+        height: 62px;
+        margin-bottom: 40px;
+    }
+
+    &__content {
+        font-size: 22px;
+        font-weight: 300;
+        text-align: center;
+
+        .bold {
+            font-weight: 400;
+        }
+
+        p {
+            margin-bottom: 24px;
+        }
+    }
+}

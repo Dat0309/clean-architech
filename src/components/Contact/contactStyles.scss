@@ -1,0 +1,89 @@
+@import '../../variables.scss';
+
+.contact {
+    padding: 75px 0px;
+
+    &__display-error-message {
+        padding: 15px;
+        border-radius: 4px;
+        background-color: $bg-error;
+        border-color: $bd-error;
+        display: none;
+        margin-bottom: 40px;
+        font-size: 20px;
+        font-weight: 300;
+        text-align: left;
+        margin-left: 20px;
+        margin-right: 20px;
+
+        &.show {
+            display: block;
+        }
+    }
+
+    &__form {
+        position: relative;
+    }
+
+    &__form-column {
+        padding: 0 45px;
+    }
+}
+
+.ui.grid>.contact__form-column.column:not(.row) {
+    padding: 0 45px;
+}
+
+.contact.form.contact__form-column input>i.icon,
+.contact.form.contact__form-column textarea {
+    font-size: 20px;
+    font-weight: 400px;
+    margin: 0px 0px 36px;
+}
+
+.ui.form .field .ui.input {
+    margin: 0px 0px 36px;
+}
+
+.ui.form .field .ui.input input,
+.ui.grid>.contact__form-column textarea {
+    font-weight: 300;
+    color: $text-black;
+    font-family: $primary-font;
+    font-size: 20px;
+}
+
+.ui.form .field .ui.input input::placeholder,
+.ui.grid>.contact__form-column textarea::placeholder {
+    color: $text-gray;
+}
+
+button.primary.buttonRequest {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: $primary-font;
+    padding: 15px 35px;
+    background-color: $bg-light-gray;
+    color: $text-black;
+    pointer-events: none;
+
+    &.active {
+        background-color: $bg-blue;
+        color: $text-white;
+        pointer-events: all;
+    }
+}
+
+.ui.grid>.contact__form-column.column:not(.row).button-area {
+    align-items: flex-end;
+    justify-content: center;
+    display: flex;
+    padding-bottom: 36px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
